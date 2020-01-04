@@ -25,5 +25,5 @@
     of = "of"
 
 [page_not_found]
-    title = "404 - page not found"
-    subtitle = "The content you're looking for doesn't seem to exist."
+    title = "Sorry, page not found"
+    subtitle = "The page content you're looking for doesn't seem to exist 😅"
